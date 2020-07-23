@@ -1608,7 +1608,7 @@ img {
 
 @media (max-width: 576px) {
   .container {
-    max-width: 88%;
+    max-width: 90%;
   }
   .objects-title {
     font-weight: 500;
